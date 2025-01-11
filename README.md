@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gooske28
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and HTML
 
 <!---
 Gooske28/Gooske28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
